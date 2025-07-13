@@ -1,7 +1,6 @@
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Remove these lines if not using Tailwind CSS with PostCSS, or ensure your build process supports Tailwind CSS. */
+```
 
 @layer base {
   :root {
